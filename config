@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+	sharedrepository = 1
+[receive]
+	denyNonFastforwards = true
+[remote "origin"]
+	url = https://github.com/moraaah/Keyboard.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
