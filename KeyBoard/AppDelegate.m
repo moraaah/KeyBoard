@@ -22,7 +22,7 @@
     keyboardManager.enable = YES;
     keyboardManager.shouldResignOnTouchOutside = YES;
     keyboardManager.shouldToolbarUsesTextFieldTintColor = NO;
-    keyboardManager.enableAutoToolbar = NO;
+    keyboardManager.enableAutoToolbar = YES;
     return YES;
 }
 
